@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sami
 
-**Computer Science student · Université Évry Paris-Saclay**
+**Computer Science student · Université Paris-Saclay**
 
 ---
 
