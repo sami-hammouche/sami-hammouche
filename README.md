@@ -26,3 +26,11 @@ into something people can actually use.
 🌱 **Currently learning** : Web development and software fundamentals
 
 🎯 **Approach** : Build, break, understand, repeat
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sami-hammouche-0b44903b0)
+
+</div>
