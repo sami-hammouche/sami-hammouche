@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sami
 
-**Computer Science student · Université Paris-Saclay · Student at 42 Paris**
+**Computer Science student · Paris-Saclay · 42 Paris**
 
 ---
 
@@ -17,7 +17,7 @@ into something people can actually use.
 
 ## ⚡ Quick look
 
-🎓 **Studying** : Computer Science at Université Évry Paris-Saclay · Student at 42 Paris
+🎓 **Studying** : Computer Science · Paris-Saclay · 42 Paris
 
 💻 **Working with** : C · Java · Python · JavaScript · HTML/CSS
 
