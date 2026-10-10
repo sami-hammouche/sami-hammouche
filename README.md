@@ -21,6 +21,8 @@ into something people can actually use.
 
 💻 **Working with** : C · Java · Python · JavaScript · HTML/CSS
 
+🌐 **Into** : Networking and Linux systems — routing, packet analysis, and how machines actually talk to each other
+
 🌱 **Currently learning** : Web development and software fundamentals
 
 🎯 **Approach** : Build, break, understand, repeat
