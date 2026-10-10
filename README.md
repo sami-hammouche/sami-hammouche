@@ -1,14 +1,3 @@
-<div align="center">
-
-<img src="assets/evry-paris-saclay.jpg" alt="Université Évry Paris-Saclay" height="52">
-&nbsp;&nbsp;&nbsp;<b>×</b>&nbsp;&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/42-dark.svg">
-  <img src="assets/42.svg" alt="42 Paris" height="40">
-</picture>
-
-</div>
-
 # 👋 Hello, I'm Sami
 
 **Computer Science student · Université Paris-Saclay · Student at 42 Paris**
