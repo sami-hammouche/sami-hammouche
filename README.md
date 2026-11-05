@@ -27,12 +27,6 @@ usually somewhere around the third attempt. When a tool I need doesn't exist, I 
 - 🧩 **Software projects:** Java (OOP, MVC, Swing), Python tools and GUIs, a Chrome extension in JavaScript
 - 📝 **Clear documentation:** every project comes with a README that explains *what* was done and *why*
 
-## 🔭 Right now
-
-- 🏫 Working on **libft** at 42 Paris — re-implementing a C standard library
-- 🖥️ L3 network & system labs — routing, strong authentication, Linux administration
-- 📚 Earning certifications along the way (see below)
-
 ---
 
 ## 🛠 Tech stack
