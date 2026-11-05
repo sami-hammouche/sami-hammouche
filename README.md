@@ -43,19 +43,6 @@ usually somewhere around the third attempt. When a tool I need doesn't exist, I 
 
 ---
 
-## 🚀 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [debian-ip-routing-lab](https://github.com/sami-hammouche/debian-ip-routing-lab) | L3 network labs: static IP routing with a Debian router and end-to-end packet analysis, then SSH two-factor authentication (TOTP + PAM) | Debian · TCP/IP · Wireshark · SSH |
-| [exam42](https://github.com/sami-hammouche/exam42) | Replica of the 42 exam shell: timed sessions, enforced submission folders, a strict automatic grader | Python · C |
-| [42-piscine-paris-2026](https://github.com/sami-hammouche/42-piscine-paris-2026) | My 42 Paris selection pool (August 2026): C and shell, Norm-compliant | C · Shell |
-| [Town-Hall-Manager](https://github.com/sami-hammouche/Town-Hall-Manager) | Civil records management desktop app, from UML class diagram to MVC | Java · Swing |
-| [windows-tweaks-manager](https://github.com/sami-hammouche/windows-tweaks-manager) | GUI applying Windows registry tweaks, packaged as a standalone executable | Python · Tkinter |
-| [2048-c](https://github.com/sami-hammouche/2048-c) · [connect-four-c](https://github.com/sami-hammouche/connect-four-c) | Terminal games | C · ncurses |
-
----
-
 ## 📜 Certifications (2026)
 
 - Python Developer Associate — DataCamp
