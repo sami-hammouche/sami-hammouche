@@ -1,9 +1,9 @@
 # Hi, I'm Sami 👋
 
-**Computer Science student · Université Évry Paris-Saclay · 42 Paris**
+**Computer Science student · Université Évry Paris-Saclay · 42 Paris**<br>
 Networking · Linux systems · Cybersecurity
 
-> 🎯 **Open to opportunities:** a 2–3 month **internship from April 2027**, then a **work-study contract (alternance) from September 2027**
+> 🎯 **Open to opportunities:** a 2–3 month **internship from April 2027**, then a **work-study contract (alternance) from September 2027**<br>
 > in networking, systems, cybersecurity or software development.
 
 ---
