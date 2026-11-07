@@ -45,11 +45,14 @@ usually somewhere around the third attempt. When a tool I need doesn't exist, I 
 
 ## 📜 Certifications (2026)
 
-- Python Developer Associate — DataCamp
-- Microsoft Applied Skills — Microsoft
-- Claude Code 101 — Anthropic
-- AI Fundamentals — IBM
-- Intro to Machine Learning — Kaggle
+- [Microsoft Applied Skills](https://learn.microsoft.com/fr-fr/users/samihammouche-0767/credentials/f5c5adca90e3b046) — Microsoft
+- [Python Developer Associate](https://www.datacamp.com/certificate/PDEVA0015854799495) — DataCamp
+- [GDPR & Data Privacy Fundamentals](https://www.datacamp.com/skill-verification/GDP0010810733387) — DataCamp
+- [EU AI Act Literacy](https://www.datacamp.com/skill-verification/EU0027935341593) — DataCamp
+- [AI Fundamentals](https://www.datacamp.com/skill-verification/AIF0027942072307) — DataCamp
+- [AI Fundamentals](https://www.credly.com/go/n93bCL973oHOdmJr5fyJLw) — IBM
+- [Intro to Machine Learning](https://www.kaggle.com/learn/certification/hammouchesami/intro-to-machine-learning) — Kaggle
+- [Claude Code 101](https://academy.claude.com/verify/5a0f1d32dc7ba673eaa954c68c8e40ca) — Anthropic
 
 ---
 
